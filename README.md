@@ -1,0 +1,2 @@
+# tasks
+prueba técnica pixel 
